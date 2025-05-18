@@ -1,4 +1,4 @@
-class Solution {
+class SortColors75 {
     public void sortColors(int[] nums) {
         int zero = 0, one = 0;
         for(int a : nums){
